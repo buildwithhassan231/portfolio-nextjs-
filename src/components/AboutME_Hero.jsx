@@ -174,7 +174,7 @@ export default function AtAGlance() {
             <div className="relative z-10">
               <div className="flex items-center gap-2 text-orange-500 mb-6 font-heading">
                 <MapPin size={18} />
-                <span className="tracking-wide">Based in Pakistan</span>
+                <span className="tracking-wide">Based in Saudi arabia</span>
               </div>
               <div className="space-y-6 text-lg leading-relaxed text-muted">
                 <p>

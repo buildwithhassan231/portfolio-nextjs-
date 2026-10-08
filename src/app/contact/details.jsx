@@ -278,7 +278,7 @@ export default function ContactMe() {
                 value="hassantheDev945@gmail.com"
                 href="mailto:hassantheDev945@gmail.com"
               />
-              <ContactCard icon={MapPin} title="Location" value="Pakistan" />
+              <ContactCard icon={MapPin} title="Location" value="Saudi arabia" />
             </div>
           </motion.div>
 

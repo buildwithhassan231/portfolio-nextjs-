@@ -116,7 +116,7 @@ function generateReply(question) {
   if (
     has(q, "who", "about", "bio", "background", "introduce",
         "tell me", "hassan", "muhammad", "developer", "experience",
-        "available", "location", "pakistan", "years", "stat")
+        "available", "location", "Saudi arabia", "years", "stat")
   ) {
     const o = portfolioData.owner;
     const s = o.stats;

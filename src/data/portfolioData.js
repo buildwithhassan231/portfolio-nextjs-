@@ -7,7 +7,7 @@ export const portfolioData = {
     name: "Muhammad Hassan",
     title: "Full Stack Developer",
     specialty: "MERN Stack & Frontend Expert",
-    location: "Pakistan",
+    location: "Saudi arabia",
     availability: "Open to Freelance & Full-time Opportunities",
     email: "hassantheDev945@gmail.com",
     github: "https://github.com/HadssanK",
