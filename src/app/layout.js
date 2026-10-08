@@ -1,4 +1,4 @@
-
+import { Analytics } from '@vercel/analytics/react';
 import React from "react";
 import { JetBrains_Mono, Poppins } from "next/font/google";
 import "./globals.css";
@@ -47,6 +47,7 @@ export default function RootLayout({ children }) {
           <Navbar />
           {children}
           <Footer />
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>
