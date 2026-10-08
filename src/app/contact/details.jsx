@@ -269,8 +269,8 @@ export default function ContactMe() {
               <ContactCard
                 icon={Phone}
                 title="Phone"
-                value="(+92) 330 0273758"
-                href="tel:+92330 0273758"
+                value="(+966) 0576984355"
+                href="tel:+9660576984355"
               />
               <ContactCard
                 icon={Mail}

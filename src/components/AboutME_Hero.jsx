@@ -132,7 +132,7 @@ export default function AtAGlance() {
 
         {/* Stats */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
-          <StatCard value={1} label="Years Experience" />
+          <StatCard value={3} label="Years Experience" />
           <StatCard value={5} label="Projects Delivered" />
           <StatCard value={15} label="Technical Skills" />
           <StatCard value={4} label="Live Projects" />

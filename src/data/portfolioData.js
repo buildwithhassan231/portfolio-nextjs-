@@ -87,33 +87,7 @@ export const portfolioData = {
   ],
 
   projects: [
-    {
-      id: "1",
-      title: "Disposable Bazaar",
-      category: "E-Commerce",
-      shortDescription:
-        "A full-featured e-commerce platform for disposable food packaging with custom product configuration, bulk ordering, and strong SEO using SSR.",
-      techStack: [
-        "Next.js",
-        "React",
-        "Tailwind CSS",
-        "Axios",
-        "Swiper",
-        "Framer Motion",
-        "Google OAuth",
-      ],
-      status: "Ongoing",
-      liveUrl: "https://dispasible-bazar-persnal.vercel.app/",
-      highlights: [
-        "Full e-commerce system with retail & bulk ordering",
-        "Advanced product variants (pack sizes, colors, lids)",
-        "Custom packaging system with file upload",
-        "Cart management with localStorage persistence",
-        "Invoice generation and download",
-        "Google OAuth and email/password authentication",
-        "SEO optimization using SSR, metadata, JSON-LD, and Open Graph",
-      ],
-    },
+    
     {
       id: "2",
       title: "Way To Haramain",
@@ -142,35 +116,7 @@ export const portfolioData = {
         "Docker-based deployment",
       ],
     },
-    {
-      id: "3",
-      title: "Next Level Real Estate Dubai",
-      category: "Real Estate Platform",
-      shortDescription:
-        "A full-stack real estate platform for Dubai properties with advanced search, multilingual support, agent listings, and dynamic property management.",
-      techStack: [
-        "Next.js 15",
-        "React 19",
-        "Tailwind CSS 4",
-        "Axios",
-        "Zustand",
-        "React Hook Form",
-        "Swiper",
-        "i18next",
-      ],
-      status: "Completed",
-      completedDate: "2026",
-      liveUrl: "https://www.nextlevelrealestate.ae/",
-      highlights: [
-        "Advanced property listing system (buy, rent, off-plan, ready properties)",
-        "Powerful search and filter system",
-        "Watchlist/favourites system",
-        "User authentication with JWT",
-        "Multilingual support (English & Arabic with RTL)",
-        "SEO optimized dynamic metadata per page",
-        "Analytics integration (Google Tag Manager, Facebook Pixel)",
-      ],
-    },
+   
     {
       id: "4",
       title: "POB Trust",
@@ -200,32 +146,7 @@ export const portfolioData = {
         "PDF generation for reports and donation receipts",
       ],
     },
-    {
-      id: "5",
-      title: "Bombay Choc N Nuts",
-      category: "E-Commerce Platform",
-      shortDescription:
-        "A modern e-commerce platform for chocolates, nuts, and premium gift items with cart system, authentication, and multi-step checkout.",
-      techStack: [
-        "Next.js",
-        "React 19",
-        "Tailwind CSS v4",
-        "Zustand v5",
-        "Framer Motion",
-        "Axios",
-      ],
-      status: "Completed",
-      completedDate: "2026",
-      liveUrl: "https://bomby-choc-n-nuts.vercel.app/",
-      highlights: [
-        "Dynamic product detail pages with variant-based pricing",
-        "Persistent cart system using Zustand + localStorage",
-        "Multi-step checkout process (shipping + billing)",
-        "Multiple payment methods (COD, Bank Transfer, JazzCash, Easypaisa)",
-        "User authentication with login/register and token persistence",
-        "Brand-based and category-based product listing",
-      ],
-    },
+    
     {
       id: "6",
       title: "Muhammad Hassan Portfolio",
