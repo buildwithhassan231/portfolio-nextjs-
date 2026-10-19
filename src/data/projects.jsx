@@ -2,6 +2,51 @@
 export const projects = [
 
 {
+  id: "9",
+  title: "Star Plus Barber | Premium Barbershop Web Platform",
+  shortDescription:
+    "A production-ready, full-featured barbershop website for a premium grooming destination in Riyadh with bilingual support, animated UI, and a multi-step online booking system.",
+  fullDescription:
+    "Star Plus Barber is a production-ready, full-featured barbershop website built for a premium grooming destination in Riyadh, Saudi Arabia. Developed with Next.js 15 (App Router) and React 19, the application delivers a luxury brand experience with smooth animations, bilingual support, and a complete online booking system. The platform features a fully dynamic Arabic/English language switch with RTL/LTR layout flip — including a mirrored navigation and Cairo font for Arabic — all handled without a page reload. A 4-step animated booking flow guides clients from service selection to personal info, with WhatsApp deep-link confirmation that pre-fills a structured message to the shop. Interactive service menus, team profiles, a before & after slider, a full gallery, Google Maps integration, and a persistent floating WhatsApp CTA round out the feature set.",
+  category: "Hospitality & Beauty | Local Business Platform",
+  image: "/s1.png",
+  gallery: [
+    "/s2.png",
+    "/s3.png",
+    "/s4.png",
+    "/s5.png",
+  ],
+  techStack: [
+    "Next.js 15 (App Router)",
+    "React 19",
+    "Tailwind CSS v4",
+    "Framer Motion",
+    "i18next",
+    "React Icons",
+  ],
+  features: [
+    "Bilingual AR/EN support with full RTL/LTR layout flip, Cairo font for Arabic, and mirrored navigation — all dynamic without a page reload",
+    "Multi-step appointment booking system — 4-step animated flow (Service → Barber → Date & Time → Personal Info) with per-step form validation",
+    "WhatsApp deep-link confirmation that pre-fills a structured booking message to the shop",
+    "Interactive services menu with categorized tabs (Haircut, Beard, Colouring, Styling, Packages), SAR pricing, duration badges, and direct Book CTAs",
+    "Team profiles page with individual barber cards showing name, role, specialty, experience, and star ratings",
+    "Homepage barber preview section with Instagram profile links",
+    "Before & after image comparison slider showcasing client transformations",
+    "Full photo gallery page with a homepage preview section",
+    "Contact & map integration — info cards, Google Maps embed, landmark directions, business hours, and WhatsApp direct contact",
+    "Floating WhatsApp CTA persistent across all pages for instant client communication",
+    "Responsive animated header with center-logo split navigation, scroll-aware styling, animated burger menu, and a slide-in mobile sidebar mirrored in Arabic mode",
+    "Framer Motion powered scroll-triggered fade/slide animations via a reusable AnimateIn component across all sections",
+    "Special offers & combo pricing banner to drive upsells",
+    "FAQ section and client testimonials with avatar display and star ratings",
+    "SEO & performance — Next.js Image optimization, Google Fonts with CSS variables, and priority loading for above-the-fold assets",
+  ],
+  duration: "Completed",
+  completedDate: "2026",
+  liveUrl: "https://star-plus-barber.vercel.app/",
+},
+
+{
   id: "2",
   title: "Way To Haramain | Transportation Booking Platform",
   shortDescription:
