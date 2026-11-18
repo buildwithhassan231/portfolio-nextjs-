@@ -9,9 +9,9 @@ export const portfolioData = {
     specialty: "MERN Stack & Frontend Expert",
     location: "Saudi arabia",
     availability: "Open to Freelance & Full-time Opportunities",
-    email: "hassantheDev945@gmail.com",
+    email: "hassankhan847754@gmail.com",
     github: "https://github.com/HadssanK",
-    linkedin: "https://www.linkedin.com/in/hassan-merndev/",
+    linkedin: "https://www.linkedin.com/in/muhammad-hassan-developer/",
     bio: "A passionate Full Stack Developer with hands-on experience in real-world projects, building scalable, efficient, high-performing applications. Combines technical expertise with strategic thinking to deliver impactful digital solutions that bridge technology and business, turning complex problems into clean, user-friendly experiences.",
     stats: {
       yearsExperience: 1,

@@ -244,7 +244,7 @@ export default function ContactMe() {
               <div className="flex gap-3">
                 <SocialButton
                   icon={LinkedinIcon}
-                  href="https://www.linkedin.com/in/hassan-merndev/"
+                  href="https://www.linkedin.com/in/muhammad-hassan-developer/"
                   label="LinkedIn"
                 />
                 <SocialButton
@@ -254,7 +254,7 @@ export default function ContactMe() {
                 />
                 <SocialButton
                   icon={Mail}
-                  href="mailto:hassantheDev945@gmail.com"
+                  href="mailto:hassankhan847754@gmail.com"
                   label="Email"
                 />
               </div>
@@ -275,8 +275,8 @@ export default function ContactMe() {
               <ContactCard
                 icon={Mail}
                 title="Email"
-                value="hassantheDev945@gmail.com"
-                href="mailto:hassantheDev945@gmail.com"
+                value="hassankhan847754@gmail.com"
+                href="mailto:hassankhan847754@gmail.com"
               />
               <ContactCard icon={MapPin} title="Location" value="Saudi arabia" />
             </div>

@@ -10,7 +10,7 @@ This repository contains my personal portfolio website built with Next.js. It sh
 - **Title:** Full Stack Developer
 - **Specialty:** MERN Stack & Frontend Expert
 - **Location:** Saudi arabia
-- **Contact:** hassantheDev945@gmail.com
+- **Contact:** hassankhan847754@gmail.com
 - **Availability:** Open to Freelance & Full-time Opportunities
 
 ### Bio

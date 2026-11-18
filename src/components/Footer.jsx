@@ -23,7 +23,7 @@ export default function Footer() {
 
   const socialLinks = [
       { icon: GithubIcon, label: "GitHub", href: "https://github.com/HadssanK" },
-  { icon: LinkedinIcon, label: "LinkedIn", href: "https://www.linkedin.com/in/hassan-merndev/" },
+  { icon: LinkedinIcon, label: "LinkedIn", href: "https://www.linkedin.com/in/muhammad-hassan-developer/" },
   ];
 
   return (
@@ -69,10 +69,10 @@ export default function Footer() {
             <div className="flex items-center gap-2 text-muted hover:text-orange-400 transition-colors duration-300">
               <Mail size={16} />
               <a
-                href="mailto:hassantheDev945@gmail.com"
+                href="mailto:hassankhan847754@gmail.com"
                 className="font-heading text-sm hover:underline"
               >
-                hassantheDev945@gmail.com
+                hassankhan847754@gmail.com
               </a>
             </div>
 
