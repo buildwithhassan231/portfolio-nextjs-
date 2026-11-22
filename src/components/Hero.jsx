@@ -34,7 +34,7 @@ const LeetCodeIcon = ({ className }) => (
 const SOCIAL_LINKS = [
   { icon: GithubIcon, label: "GitHub", href: "https://github.com/HadssanK" },
   { icon: LinkedinIcon, label: "LinkedIn", href: "https://www.linkedin.com/in/muhammad-hassan-developer/" },
-  { icon: Mail, label: "Gmail", href: "mailto:hassankhan847754@gmail.com" },
+  { icon: Mail, label: "Gmail", href: "mailto:hassanwebdev3@gmail.com" },
 ];
 
 export default function Hero() {

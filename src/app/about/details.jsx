@@ -83,7 +83,7 @@ const profileData = {
   name: "Muhammad Hassan",
   role: "Full Stack Developer",
   location: "Saudi arabia",
-  email: "hassankhan847754@gmail.com",
+  email: "hassanwebdev3@gmail.com",
   phone: "+9660576984355",
   bio: "A passionate Full Stack Developer with hands-on experience in real-world projects, delivering scalable, efficient, and user-friendly applications across the web.",
 };

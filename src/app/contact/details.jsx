@@ -254,7 +254,7 @@ export default function ContactMe() {
                 />
                 <SocialButton
                   icon={Mail}
-                  href="mailto:hassankhan847754@gmail.com"
+                  href="mailto:hassanwebdev3@gmail.com"
                   label="Email"
                 />
               </div>
@@ -275,8 +275,8 @@ export default function ContactMe() {
               <ContactCard
                 icon={Mail}
                 title="Email"
-                value="hassankhan847754@gmail.com"
-                href="mailto:hassankhan847754@gmail.com"
+                value="hassanwebdev3@gmail.com"
+                href="mailto:hassanwebdev3@gmail.com"
               />
               <ContactCard icon={MapPin} title="Location" value="Saudi arabia" />
             </div>
