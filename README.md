@@ -174,7 +174,7 @@ Next Level Real Estate Dubai is a production-grade property platform built for b
 A charity and healthcare platform for Prevention of Blindness Trust with online donations, service management, and awareness programs.
 
 **Details:**
-POB Trust is a professional healthcare and charity website built for a registered eye care organization in Karachi. It provides information about eye treatment services, training programs, outreach initiatives, and secure online donations.
+POB Trust is a professional healthcare and charity website built for a registered eye care organization. It provides information about eye treatment services, training programs, outreach initiatives, and secure online donations.
 
 **Key Features:**
 - Complete eye care service management with dynamic service pages
