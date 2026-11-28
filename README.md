@@ -7,19 +7,19 @@ This repository contains my personal portfolio website built with Next.js. It sh
 ## About Me
 
 - **Name:** Muhammad Hassan
-- **Title:** Full Stack Developer
-- **Specialty:** MERN Stack & Frontend Expert
-- **Location:** Saudi arabia
+- **Title:** Frontend Developer | React.js, Next.js & TypeScript
+- **Specialty:** Frontend Development & MERN Stack
+- **Location:** Riyadh, Saudi Arabia
 - **Contact:** hassanwebdev3@gmail.com
-- **Availability:** Open to Freelance & Full-time Opportunities
+- **Availability:** Seeking a Frontend Developer role in Riyadh, Saudi Arabia
 
 ### Bio
 
-A passionate Full Stack Developer with hands-on experience in real-world projects. I build scalable, efficient, and high-performing applications that combine strong technical implementation with clean user experiences.
+A passionate Frontend Developer with 3 years of hands-on experience in real-world projects. I build scalable, efficient, and high-performing applications that combine strong technical implementation with clean user experiences.
 
 ### Statistics
 
-- **Experience:** 1 year
+- **Experience:** 3 years
 - **Projects Delivered:** 5
 - **Technical Skills:** 15
 - **Live Projects:** 4
